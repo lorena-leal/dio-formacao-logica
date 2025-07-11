@@ -1,4 +1,4 @@
-# 1 Desafio Classificador de nível de Herói
+# 1º Desafio - Classificador de nível de Herói
 
 **O que deve ser utilizado**
 
