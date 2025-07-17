@@ -1,4 +1,4 @@
-# 3º Escrevendo as classes de um Jogo
+# 3º Desafio - Escrevendo as classes de um Jogo
 
 **O Que deve ser utilizado**
 
