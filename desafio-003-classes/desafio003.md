@@ -1,4 +1,4 @@
-# 3 Escrevendo as classes de um Jogo
+# 3º Escrevendo as classes de um Jogo
 
 **O Que deve ser utilizado**
 
